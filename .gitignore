@@ -1,0 +1,26 @@
+# 脚本运行产物
+overview.jpg
+overview.txt
+motion.txt
+_frames/
+_抽帧/
+_临时/
+
+# 媒体文件：本仓库只放文字与脚本，不分发素材
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 系统
+.DS_Store
+Thumbs.db
