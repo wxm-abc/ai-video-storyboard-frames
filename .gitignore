@@ -15,6 +15,7 @@ _临时/
 *.png
 *.jpg
 *.jpeg
+!docs/cover.jpg
 
 # Python
 __pycache__/
